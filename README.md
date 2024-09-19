@@ -17,7 +17,7 @@
 <br>
 <br>
 
-## 💻 Languages and Tools:
+<h3> 💻 Languages and Tools: </h3>h3>
 
 <p align="left"> <a href="https://powerbi.microsoft.com/en-au/" target="_blank" rel="noreferrer"> <img src="https://logos-world.net/wp-content/uploads/2022/02/Microsoft-Power-BI-Symbol.png" alt="PowerBi" width="80" height="40"/> </a> 
 <a href="https://www.microsoft.com/en-in/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://cdn1.iconfinder.com/data/icons/famous-brand-apps/100/_-04-512.png" alt="Excel" width="40" height="40"/> </a> 
